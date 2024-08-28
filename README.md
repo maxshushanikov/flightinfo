@@ -3,7 +3,9 @@ ___
 <div align="center">
     <img src="/assets/images/flightinfo.png" align="left"/>
     <div align="left" style="padding-left-left: 30px;">
-        Markdown content goes here.
+        Repository for projects to process flight information and display it.
     </div>
 </div>
 <br clear="left"/>
+
+___
